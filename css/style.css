@@ -1,0 +1,26 @@
+* {
+    background-color:rgb(220, 220, 220);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+h1 {
+    text-shadow: 1px 1px;
+    color: dimgray;
+    display: inline-block;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+
+.center {
+    text-align: center;
+  }
